@@ -1,0 +1,11 @@
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\bin\Debug\net8.0\Product.Domain.deps.json
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\bin\Debug\net8.0\Product.Domain.dll
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\bin\Debug\net8.0\Product.Domain.pdb
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\obj\Debug\net8.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfoInputs.cache
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfo.cs
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\obj\Debug\net8.0\Product.Domain.csproj.CoreCompileInputs.cache
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\obj\Debug\net8.0\Product.Domain.dll
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\obj\Debug\net8.0\refint\Product.Domain.dll
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\obj\Debug\net8.0\Product.Domain.pdb
+D:\Git Hub Folder\Eshop-microservices\Product.Domain\obj\Debug\net8.0\ref\Product.Domain.dll
