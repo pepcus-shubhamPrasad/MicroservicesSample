@@ -11,6 +11,23 @@
     "EndpointName": "Products"
   },
   {
+    "ContainingType": "Product.API.Controllers.ProductController",
+    "Method": "CarateProducts",
+    "RelativePath": "Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Product.Application.Products.Commands.CreateProduct.CreateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "CreateProducts"
+  },
+  {
     "ContainingType": "Product.API.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

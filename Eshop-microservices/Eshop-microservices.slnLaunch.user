@@ -9,6 +9,14 @@
       {
         "Path": "Product.API\\Product.API.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Auth.API\\Auth.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EshopingWeb\\EshopingWeb.csproj",
+        "Action": "Start"
       }
     ]
   }

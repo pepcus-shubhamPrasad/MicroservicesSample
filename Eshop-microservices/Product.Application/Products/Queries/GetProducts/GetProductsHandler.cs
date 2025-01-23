@@ -2,21 +2,17 @@
 using Product.Application.DTOs;
 using Product.Application.Products.Queries.GetProducts;
 using Product.Application.Wrappers;
-using Product.Infrastructure;
-using Product.Domain.Interfaces;
+using Product.Application;
 using AutoMapper;
+using Product.Application.Interface;
 
 public class GetProductsHandler : IRequestHandler<GetProductListQuery, Result<ICollection<ProductDTO>>>
 {
-    private readonly ApplicationDbContext _context;
     private readonly IProduct _product;
-    private readonly IMapper _mapper;
 
-    public GetProductsHandler(ApplicationDbContext dbContext, IProduct product, IMapper mapper)
+    public GetProductsHandler(IProduct product)
     {
-        _context = dbContext;
         _product = product;
-        _mapper = mapper;
     }
 
     public async Task<Result<ICollection<ProductDTO>>> Handle(GetProductListQuery request, CancellationToken cancellationToken)
@@ -24,8 +20,13 @@ public class GetProductsHandler : IRequestHandler<GetProductListQuery, Result<IC
         try
         {
             var products = await _product.GetAllProductsAsync();
-            var productDTOs = _mapper.Map<ICollection<ProductDTO>>(products);
-            return Result<ICollection<ProductDTO>>.Success(productDTOs, "Products fetched successfully.");
+
+            if (products == null || !products.Any())
+            {
+                return Result<ICollection<ProductDTO>>.Failure("No products found.");
+            }
+
+            return Result<ICollection<ProductDTO>>.Success(products.ToList(), "Products fetched successfully.");
         }
         catch (Exception ex)
         {

@@ -1,0 +1,5 @@
+D:\Git Hub Folder\Eshop-microservices\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.csproj.AssemblyReference.cache
+D:\Git Hub Folder\Eshop-microservices\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Folder\Eshop-microservices\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.AssemblyInfoInputs.cache
+D:\Git Hub Folder\Eshop-microservices\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.AssemblyInfo.cs
+D:\Git Hub Folder\Eshop-microservices\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.csproj.CoreCompileInputs.cache

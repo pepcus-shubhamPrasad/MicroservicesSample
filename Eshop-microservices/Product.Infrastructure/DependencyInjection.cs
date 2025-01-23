@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
-using Product.Domain.Interfaces;
+using Product.Application.Interface;
 
 namespace Product.Infrastructure
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git Hub Folder\\Eshop-microservices\\Eshop-microservices\\Eshop-microservices.csproj": {}
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Eshop-microservices\\Eshop-microservices.csproj": {}
   },
   "projects": {
-    "D:\\Git Hub Folder\\Eshop-microservices\\Eshop-microservices\\Eshop-microservices.csproj": {
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Eshop-microservices\\Eshop-microservices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git Hub Folder\\Eshop-microservices\\Eshop-microservices\\Eshop-microservices.csproj",
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Eshop-microservices\\Eshop-microservices.csproj",
         "projectName": "Eshop-microservices",
-        "projectPath": "D:\\Git Hub Folder\\Eshop-microservices\\Eshop-microservices\\Eshop-microservices.csproj",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Eshop-microservices\\Eshop-microservices.csproj",
         "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
-        "outputPath": "D:\\Git Hub Folder\\Eshop-microservices\\Eshop-microservices\\obj\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Eshop-microservices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2,8 +2,6 @@ D:\Git Hub Folder\Eshop-microservices\Product.Application\bin\Debug\net8.0\Produ
 D:\Git Hub Folder\Eshop-microservices\Product.Application\bin\Debug\net8.0\Product.Application.dll
 D:\Git Hub Folder\Eshop-microservices\Product.Application\bin\Debug\net8.0\Product.Application.pdb
 D:\Git Hub Folder\Eshop-microservices\Product.Application\bin\Debug\net8.0\Product.Domain.dll
-D:\Git Hub Folder\Eshop-microservices\Product.Application\bin\Debug\net8.0\Product.Infrastructure.dll
-D:\Git Hub Folder\Eshop-microservices\Product.Application\bin\Debug\net8.0\Product.Infrastructure.pdb
 D:\Git Hub Folder\Eshop-microservices\Product.Application\bin\Debug\net8.0\Product.Domain.pdb
 D:\Git Hub Folder\Eshop-microservices\Product.Application\obj\Debug\net8.0\Product.Application.csproj.AssemblyReference.cache
 D:\Git Hub Folder\Eshop-microservices\Product.Application\obj\Debug\net8.0\Product.Application.GeneratedMSBuildEditorConfig.editorconfig

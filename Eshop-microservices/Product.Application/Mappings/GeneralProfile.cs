@@ -1,18 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using Product.Application.DTOs;
-
 namespace Product.Application.Mappings
 {
     public class GeneralProfile : Profile
     {
         public GeneralProfile()
         {
-            CreateMap<Product.Domain.Entities.Products, ProductDTO>();
+            CreateMap<Product.Domain.Entities.Products, ProductDTO>().ReverseMap().
+                ForMember(dest => dest.ProductId, opt => opt.Ignore()); ;
         }
     }
 }

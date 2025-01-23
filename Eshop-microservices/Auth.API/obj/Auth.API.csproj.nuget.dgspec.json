@@ -1,0 +1,638 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Auth.API\\Auth.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Auth.API\\Auth.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Auth.API\\Auth.API.csproj",
+        "projectName": "Auth.API",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Auth.API\\Auth.API.csproj",
+        "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Auth.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shubham.Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Authentications\\Authentications.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Authentications\\Authentications.csproj"
+              },
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Application\\AuthService.Application.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Application\\AuthService.Application.csproj"
+              },
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthServices.Infrastructure\\AuthServices.Infrastructure.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthServices.Infrastructure\\AuthServices.Infrastructure.csproj"
+              },
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Infrastructure\\Product.Infrastructure.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Infrastructure\\Product.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Authentications\\Authentications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Authentications\\Authentications.csproj",
+        "projectName": "Authentications",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Authentications\\Authentications.csproj",
+        "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Authentications\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shubham.Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.35.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.35.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Application\\AuthService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Application\\AuthService.Application.csproj",
+        "projectName": "AuthService.Application",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Application\\AuthService.Application.csproj",
+        "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shubham.Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Authentications\\Authentications.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Authentications\\Authentications.csproj"
+              },
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthServices.Infrastructure\\AuthServices.Infrastructure.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthServices.Infrastructure\\AuthServices.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Domain\\AuthService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Domain\\AuthService.Domain.csproj",
+        "projectName": "AuthService.Domain",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Domain\\AuthService.Domain.csproj",
+        "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shubham.Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthServices.Infrastructure\\AuthServices.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthServices.Infrastructure\\AuthServices.Infrastructure.csproj",
+        "projectName": "AuthServices.Infrastructure",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthServices.Infrastructure\\AuthServices.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthServices.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shubham.Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Domain\\AuthService.Domain.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Domain\\AuthService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\Product.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\Product.Application.csproj",
+        "projectName": "Product.Application",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\Product.Application.csproj",
+        "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shubham.Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Domain\\Product.Domain.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Domain\\Product.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Domain\\Product.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Domain\\Product.Domain.csproj",
+        "projectName": "Product.Domain",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Domain\\Product.Domain.csproj",
+        "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shubham.Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Infrastructure\\Product.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Infrastructure\\Product.Infrastructure.csproj",
+        "projectName": "Product.Infrastructure",
+        "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Infrastructure\\Product.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Shubham.Prasad\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shubham.Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\Product.Application.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\Product.Application.csproj"
+              },
+              "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Domain\\Product.Domain.csproj": {
+                "projectPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Domain\\Product.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

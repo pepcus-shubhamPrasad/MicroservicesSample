@@ -11,6 +11,54 @@
             ],
             "UpstreamPathTemplate": "/Product",
             "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+            "DownstreamPathTemplate": "/Product",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7137
+                }
+            ],
+            "UpstreamPathTemplate": "/Product",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/Auth",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7143
+                }
+            ],
+            "UpstreamPathTemplate": "/Auth",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/Auth",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7143
+                }
+            ],
+            "UpstreamPathTemplate": "/Auth",
+            "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+            "DownstreamPathTemplate": "/Auth/login",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 7143
+                }
+            ],
+            "UpstreamPathTemplate": "/Auth/login",
+            "UpstreamHttpMethod": [ "POST" ]
         }
     ],
     "GlobalConfiguration": {
@@ -23,6 +71,4 @@
         "DangerousAcceptAnyServerCertificateValidator": true,
         "SslProtocols": "Tls12"
     }
-
-
 }

@@ -71,8 +71,8 @@ D:\Git Hub Folder\Eshop-microservices\Product.API\bin\Debug\net8.0\Product.Appli
 D:\Git Hub Folder\Eshop-microservices\Product.API\bin\Debug\net8.0\Product.Domain.dll
 D:\Git Hub Folder\Eshop-microservices\Product.API\bin\Debug\net8.0\Product.Infrastructure.dll
 D:\Git Hub Folder\Eshop-microservices\Product.API\bin\Debug\net8.0\Product.Application.pdb
-D:\Git Hub Folder\Eshop-microservices\Product.API\bin\Debug\net8.0\Product.Domain.pdb
 D:\Git Hub Folder\Eshop-microservices\Product.API\bin\Debug\net8.0\Product.Infrastructure.pdb
+D:\Git Hub Folder\Eshop-microservices\Product.API\bin\Debug\net8.0\Product.Domain.pdb
 D:\Git Hub Folder\Eshop-microservices\Product.API\obj\Debug\net8.0\Product.API.csproj.AssemblyReference.cache
 D:\Git Hub Folder\Eshop-microservices\Product.API\obj\Debug\net8.0\Product.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\Git Hub Folder\Eshop-microservices\Product.API\obj\Debug\net8.0\Product.API.AssemblyInfoInputs.cache
@@ -97,3 +97,4 @@ D:\Git Hub Folder\Eshop-microservices\Product.API\obj\Debug\net8.0\refint\Produc
 D:\Git Hub Folder\Eshop-microservices\Product.API\obj\Debug\net8.0\Product.API.pdb
 D:\Git Hub Folder\Eshop-microservices\Product.API\obj\Debug\net8.0\Product.API.genruntimeconfig.cache
 D:\Git Hub Folder\Eshop-microservices\Product.API\obj\Debug\net8.0\ref\Product.API.dll
+D:\Git Hub Folder\Eshop-microservices\Product.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
