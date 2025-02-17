@@ -1,66 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git Hub Folder\\Eshop-microservices\\",
+  "WorkspaceRootPath": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{720CAC79-819A-47E0-B089-8745CCFD5A16}|APIGateWay\\APIGateWay.csproj|d:\\git hub folder\\eshop-microservices\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{720CAC79-819A-47E0-B089-8745CCFD5A16}|APIGateWay\\APIGateWay.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8F3CF8-3A37-4833-8EF4-E8AF8141EE01}|Product.API\\Product.API.csproj|d:\\git hub folder\\eshop-microservices\\product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8F3CF8-3A37-4833-8EF4-E8AF8141EE01}|Product.API\\Product.API.csproj|solutionrelative:product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|d:\\git hub folder\\eshop-microservices\\product.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|d:\\git hub folder\\eshop-microservices\\product.application\\products\\queries\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\products\\queries\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{720CAC79-819A-47E0-B089-8745CCFD5A16}|APIGateWay\\APIGateWay.csproj|d:\\git hub folder\\eshop-microservices\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{720CAC79-819A-47E0-B089-8745CCFD5A16}|APIGateWay\\APIGateWay.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|d:\\git hub folder\\eshop-microservices\\product.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|d:\\git hub folder\\eshop-microservices\\product.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8F3CF8-3A37-4833-8EF4-E8AF8141EE01}|Product.API\\Product.API.csproj|d:\\git hub folder\\eshop-microservices\\product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC8F3CF8-3A37-4833-8EF4-E8AF8141EE01}|Product.API\\Product.API.csproj|solutionrelative:product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC8F3CF8-3A37-4833-8EF4-E8AF8141EE01}|Product.API\\Product.API.csproj|d:\\git hub folder\\eshop-microservices\\product.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FC8F3CF8-3A37-4833-8EF4-E8AF8141EE01}|Product.API\\Product.API.csproj|solutionrelative:product.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|d:\\git hub folder\\eshop-microservices\\product.infrastructure\\productservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|d:\\git hub folder\\gitmicroserrvicessample\\microservicessample\\eshop-microservices\\product.infrastructure\\productservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\productservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C74B3BB7-0329-4451-9B5D-5CE6DD654591}|Product.Domain\\Product.Domain.csproj|d:\\git hub folder\\eshop-microservices\\product.domain\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C74B3BB7-0329-4451-9B5D-5CE6DD654591}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC8F3CF8-3A37-4833-8EF4-E8AF8141EE01}|Product.API\\Product.API.csproj|d:\\git hub folder\\gitmicroserrvicessample\\microservicessample\\eshop-microservices\\product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F3CF8-3A37-4833-8EF4-E8AF8141EE01}|Product.API\\Product.API.csproj|solutionrelative:product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|d:\\git hub folder\\eshop-microservices\\product.application\\mappings\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\mappings\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|d:\\git hub folder\\gitmicroserrvicessample\\microservicessample\\eshop-microservices\\product.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|d:\\git hub folder\\eshop-microservices\\product.infrastructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73C887B-7B6A-4929-BF3C-E9B7F4068353}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|d:\\git hub folder\\gitmicroserrvicessample\\microservicessample\\eshop-microservices\\product.application\\products\\queries\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\products\\queries\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|d:\\git hub folder\\eshop-microservices\\product.application\\products\\queries\\getproducts\\getproductlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED6D121-6B94-48BE-AABF-3CB2A3B5866E}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\products\\queries\\getproducts\\getproductlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D25528E1-25C2-44CD-BB17-20ADE3B96B2E}|AuthService.Application\\AuthService.Application.csproj|d:\\git hub folder\\gitmicroserrvicessample\\microservicessample\\eshop-microservices\\authservice.application\\auth\\commands\\userlogin\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25528E1-25C2-44CD-BB17-20ADE3B96B2E}|AuthService.Application\\AuthService.Application.csproj|solutionrelative:authservice.application\\auth\\commands\\userlogin\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C74B3BB7-0329-4451-9B5D-5CE6DD654591}|Product.Domain\\Product.Domain.csproj|d:\\git hub folder\\eshop-microservices\\product.domain\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C74B3BB7-0329-4451-9B5D-5CE6DD654591}|Product.Domain\\Product.Domain.csproj|solutionrelative:product.domain\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{601E6EAD-A5A7-4A6D-9DD7-3FE2D05BCD0B}|Auth.API\\Auth.API.csproj|d:\\git hub folder\\gitmicroserrvicessample\\microservicessample\\eshop-microservices\\auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601E6EAD-A5A7-4A6D-9DD7-3FE2D05BCD0B}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,197 +62,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Product.API\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Product.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Product.Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Product.Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:44:13.956Z",
+              "WhenOpened": "2025-02-17T05:29:16.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\APIGateWay\\ocelot.json",
-              "RelativeDocumentMoniker": "APIGateWay\\ocelot.json",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\APIGateWay\\ocelot.json",
-              "RelativeToolTip": "APIGateWay\\ocelot.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T06:42:36.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\APIGateWay\\appsettings.json",
-              "RelativeDocumentMoniker": "APIGateWay\\appsettings.json",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\APIGateWay\\appsettings.json",
-              "RelativeToolTip": "APIGateWay\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T06:42:35.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Product.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Product.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Infrastructure\\ProductServices\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\ProductServices\\ProductServices.cs",
+              "ToolTip": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Infrastructure\\ProductServices\\ProductServices.cs",
+              "RelativeToolTip": "Product.Infrastructure\\ProductServices\\ProductServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:31:22.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Product.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Product.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:18:37.535Z",
+              "WhenOpened": "2025-02-17T05:29:00.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "GetProductsHandler.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Application\\Products\\Queries\\GetProducts\\GetProductsHandler.cs",
+              "DocumentMoniker": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\Products\\Queries\\GetProducts\\GetProductsHandler.cs",
               "RelativeDocumentMoniker": "Product.Application\\Products\\Queries\\GetProducts\\GetProductsHandler.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Application\\Products\\Queries\\GetProducts\\GetProductsHandler.cs",
+              "ToolTip": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.Application\\Products\\Queries\\GetProducts\\GetProductsHandler.cs",
               "RelativeToolTip": "Product.Application\\Products\\Queries\\GetProducts\\GetProductsHandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:11:48.821Z",
+              "WhenOpened": "2025-02-17T05:28:49.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Infrastructure\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "Product.Infrastructure\\Repository\\Repository.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Infrastructure\\Repository\\Repository.cs",
-              "RelativeToolTip": "Product.Infrastructure\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Product.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:34:27.504Z",
+              "WhenOpened": "2025-02-17T05:27:44.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.API\\Program.cs",
-              "RelativeDocumentMoniker": "Product.API\\Program.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.API\\Program.cs",
-              "RelativeToolTip": "Product.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Application\\Auth\\Commands\\UserLogin\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "AuthService.Application\\Auth\\Commands\\UserLogin\\LoginUserCommandHandler.cs",
+              "ToolTip": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\AuthService.Application\\Auth\\Commands\\UserLogin\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "AuthService.Application\\Auth\\Commands\\UserLogin\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:32:44.546Z",
+              "WhenOpened": "2025-02-17T05:26:46.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Product.API\\appsettings.json",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.API\\appsettings.json",
-              "RelativeToolTip": "Product.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T06:36:26.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Products.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Domain\\Entities\\Products.cs",
-              "RelativeDocumentMoniker": "Product.Domain\\Entities\\Products.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Domain\\Entities\\Products.cs",
-              "RelativeToolTip": "Product.Domain\\Entities\\Products.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Auth.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\Auth.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:45:45.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductServices.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Infrastructure\\ProductServices\\ProductServices.cs",
-              "RelativeDocumentMoniker": "Product.Infrastructure\\ProductServices\\ProductServices.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Infrastructure\\ProductServices\\ProductServices.cs",
-              "RelativeToolTip": "Product.Infrastructure\\ProductServices\\ProductServices.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:05:17.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GeneralProfile.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Application\\Mappings\\GeneralProfile.cs",
-              "RelativeDocumentMoniker": "Product.Application\\Mappings\\GeneralProfile.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Application\\Mappings\\GeneralProfile.cs",
-              "RelativeToolTip": "Product.Application\\Mappings\\GeneralProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:17:25.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Domain\\Interfaces\\IProduct.cs",
-              "RelativeDocumentMoniker": "Product.Domain\\Interfaces\\IProduct.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Domain\\Interfaces\\IProduct.cs",
-              "RelativeToolTip": "Product.Domain\\Interfaces\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:03:09.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetProductListQuery.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Application\\Products\\Queries\\GetProducts\\GetProductListQuery.cs",
-              "RelativeDocumentMoniker": "Product.Application\\Products\\Queries\\GetProducts\\GetProductListQuery.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Application\\Products\\Queries\\GetProducts\\GetProductListQuery.cs",
-              "RelativeToolTip": "Product.Application\\Products\\Queries\\GetProducts\\GetProductListQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:41:16.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Infrastructure\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "Product.Infrastructure\\Repository\\IRepository.cs",
-              "ToolTip": "D:\\Git Hub Folder\\Eshop-microservices\\Product.Infrastructure\\Repository\\IRepository.cs",
-              "RelativeToolTip": "Product.Infrastructure\\Repository\\IRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T13:35:28.428Z",
+              "WhenOpened": "2025-02-17T05:26:09.647Z",
               "EditorCaption": ""
             }
           ]

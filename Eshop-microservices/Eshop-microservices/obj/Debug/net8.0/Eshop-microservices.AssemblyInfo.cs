@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eshop-microservices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5abc1c42e252203e4d9cf1bc72ed475306a95e37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21cd8d9c9ed0eb80eff8a09f152bfacecd657cc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eshop-microservices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eshop-microservices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

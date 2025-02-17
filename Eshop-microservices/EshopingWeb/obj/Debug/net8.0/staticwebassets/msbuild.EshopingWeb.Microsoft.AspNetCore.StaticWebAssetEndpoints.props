@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EshopingWeb.bmf3tog3lf.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bmf3tog3lf"},{"Name":"integrity","Value":"sha256-LTEKUUaCUS2LN8D2fn8lhrwZasV0eBJlrV8uB7c93gc="},{"Name":"label","Value":"_content/EshopingWeb/EshopingWeb.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LTEKUUaCUS2LN8D2fn8lhrwZasV0eBJlrV8uB7c93gc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 08:50:20 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LTEKUUaCUS2LN8D2fn8lhrwZasV0eBJlrV8uB7c93gc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 07:55:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EshopingWeb/EshopingWeb.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EshopingWeb.bmf3tog3lf.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LTEKUUaCUS2LN8D2fn8lhrwZasV0eBJlrV8uB7c93gc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LTEKUUaCUS2LN8D2fn8lhrwZasV0eBJlrV8uB7c93gc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 08:50:20 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LTEKUUaCUS2LN8D2fn8lhrwZasV0eBJlrV8uB7c93gc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 07:55:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EshopingWeb/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -96,17 +96,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xtxxf3hu2r"},{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="},{"Name":"label","Value":"_content/EshopingWeb/js/site.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 07:33:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EshopingWeb/js/UserList/UserList.iw42zpbk6s.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\UserList\UserList.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iw42zpbk6s"},{"Name":"integrity","Value":"sha256-UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ="},{"Name":"label","Value":"_content/EshopingWeb/js/UserList/UserList.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1451"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 07:35:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EshopingWeb/js/UserList/UserList.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\UserList\UserList.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WMfmYZ5Vg9NuI\u002Bf1iZITUCx8ASXJTCTPReqQaKhheRc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1452"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WMfmYZ5Vg9NuI\u002Bf1iZITUCx8ASXJTCTPReqQaKhheRc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 07:34:33 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/EshopingWeb/js/UserList/UserList.s3lutxm9bh.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\UserList\UserList.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s3lutxm9bh"},{"Name":"integrity","Value":"sha256-WMfmYZ5Vg9NuI\u002Bf1iZITUCx8ASXJTCTPReqQaKhheRc="},{"Name":"label","Value":"_content/EshopingWeb/js/UserList/UserList.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1452"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WMfmYZ5Vg9NuI\u002Bf1iZITUCx8ASXJTCTPReqQaKhheRc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 07:34:33 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1451"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 07:35:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EshopingWeb/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

@@ -23,6 +23,8 @@ namespace EshopingWeb.Controllers
         public async Task<JsonResult> GetUserList()
         {
             var token = GetToken();
+            throw new InvalidOperationException("Forced exception for testing purposes.");
+
             if (string.IsNullOrEmpty(token))
                 return Json(new { success = false, message = "User is not authenticated." });
             var headers = new Dictionary<string, string>
@@ -40,14 +42,22 @@ namespace EshopingWeb.Controllers
         [HttpPost]
         public async Task<JsonResult> CreateUser([FromBody] UserModel user)
         {
-            var data = await HttpClientHelper.PostAsync<UserResponse>(CommanAPIUrl.CreatLoginUser, user);
-            if (ModelState.IsValid)
+            try
             {
-                return Json(new { success = true, message = "User added successfully." });
+                var data = await HttpClientHelper.PostAsync<UserResponse>(CommanAPIUrl.CreatLoginUser, user);
+                if (ModelState.IsValid)
+                {
+                    return Json(new { success = true, message = "User added successfully." });
+                }
+                else
+                {
+                    return Json(new { success = false, message = "Invalid user data." });
+                }
             }
-            else
+            catch (Exception)
             {
-                return Json(new { success = false, message = "Invalid user data." });
+
+                throw;
             }
         }
         [HttpGet]

@@ -26,9 +26,17 @@ namespace Product.Infrastructure.ProductServices
 
         public async Task<IEnumerable<ProductDTO>> GetAllProductsAsync()
         {
-            var products = await _context.Products.ToListAsync();
+            try
+            {
+                var products = await _context.Products.ToListAsync();
 
-            return _mapper.Map<IEnumerable<ProductDTO>>(products);
+                return _mapper.Map<IEnumerable<ProductDTO>>(products);
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
         }
         public async Task<ProductDTO> CreateProductAsync(ProductDTO productDto)
         {

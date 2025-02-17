@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "en+Oxhs+AWTgr5d93fTpEms4PTnC+MzpHJy7jB44dx0=",
+  "Hash": "ZYIMYo2gqvVVgtLXr09QX3AhCShmIfOUofzccEP86KI=",
   "Source": "EshopingWeb",
   "BasePath": "_content/EshopingWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EshopingWeb\\wwwroot",
       "Source": "EshopingWeb",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EshopingWeb.styles.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EshopingWeb.styles.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "EshopingWeb#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "LTEKUUaCUS2LN8D2fn8lhrwZasV0eBJlrV8uB7c93gc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EshopingWeb.styles.css"
+      "OriginalItemSpec": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EshopingWeb.styles.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EshopingWeb.bundle.scp.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EshopingWeb.bundle.scp.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "EshopingWeb#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "LTEKUUaCUS2LN8D2fn8lhrwZasV0eBJlrV8uB7c93gc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EshopingWeb.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EshopingWeb.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\css\\site.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\favicon.ico",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\AuthUser\\UserForm.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\AuthUser\\UserForm.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "js/AuthUser/UserForm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\AuthUser\\UserForm.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\AjaxHalpler.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\AjaxHalpler.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "js/Common/AjaxHalpler#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Common\\AjaxHalpler.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\Common.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\Common.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "js/Common/Common#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Common\\Common.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Product\\ProductList.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Product\\ProductList.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "js/Product/ProductList#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Product\\ProductList.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\site.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\UserList\\UserList.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\UserList\\UserList.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "js/UserList/UserList#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -220,17 +220,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s3lutxm9bh",
-      "Integrity": "WMfmYZ5Vg9NuI+f1iZITUCx8ASXJTCTPReqQaKhheRc=",
+      "Fingerprint": "iw42zpbk6s",
+      "Integrity": "UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\UserList\\UserList.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "EshopingWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\",
       "BasePath": "_content/EshopingWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1427,7 +1427,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1472,7 +1472,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1509,7 +1509,7 @@
     },
     {
       "Route": "EshopingWeb.bmf3tog3lf.bundle.scp.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EshopingWeb.bundle.scp.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EshopingWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1530,7 +1530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:50:20 GMT"
+          "Value": "Thu, 06 Feb 2025 07:55:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1554,7 +1554,7 @@
     },
     {
       "Route": "EshopingWeb.bmf3tog3lf.styles.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EshopingWeb.styles.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EshopingWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1575,7 +1575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:50:20 GMT"
+          "Value": "Thu, 06 Feb 2025 07:55:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1599,7 +1599,7 @@
     },
     {
       "Route": "EshopingWeb.bundle.scp.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EshopingWeb.bundle.scp.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EshopingWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1620,7 +1620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:50:20 GMT"
+          "Value": "Thu, 06 Feb 2025 07:55:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1636,7 +1636,7 @@
     },
     {
       "Route": "EshopingWeb.styles.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EshopingWeb.styles.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EshopingWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1657,7 +1657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 08:50:20 GMT"
+          "Value": "Thu, 06 Feb 2025 07:55:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1673,7 +1673,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1718,7 +1718,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1755,7 +1755,7 @@
     },
     {
       "Route": "js/AuthUser/UserForm.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\AuthUser\\UserForm.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\AuthUser\\UserForm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1792,7 +1792,7 @@
     },
     {
       "Route": "js/AuthUser/UserForm.tk4k1vdj4e.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\AuthUser\\UserForm.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\AuthUser\\UserForm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1837,7 +1837,7 @@
     },
     {
       "Route": "js/Common/AjaxHalpler.1ixqp9nl37.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\AjaxHalpler.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\AjaxHalpler.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1882,7 +1882,7 @@
     },
     {
       "Route": "js/Common/AjaxHalpler.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\AjaxHalpler.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\AjaxHalpler.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1919,7 +1919,7 @@
     },
     {
       "Route": "js/Common/Common.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\Common.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\Common.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1956,7 +1956,7 @@
     },
     {
       "Route": "js/Common/Common.qwxcczem5p.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\Common.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Common\\Common.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2001,7 +2001,7 @@
     },
     {
       "Route": "js/Product/ProductList.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Product\\ProductList.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Product\\ProductList.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2038,7 +2038,7 @@
     },
     {
       "Route": "js/Product/ProductList.kdjnefmguf.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Product\\ProductList.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\Product\\ProductList.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2083,7 +2083,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2120,7 +2120,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2164,8 +2164,8 @@
       ]
     },
     {
-      "Route": "js/UserList/UserList.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\UserList\\UserList.js",
+      "Route": "js/UserList/UserList.iw42zpbk6s.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\UserList\\UserList.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2174,7 +2174,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1452"
+          "Value": "1451"
         },
         {
           "Name": "Content-Type",
@@ -2182,48 +2182,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WMfmYZ5Vg9NuI+f1iZITUCx8ASXJTCTPReqQaKhheRc=\""
+          "Value": "\"UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 07:34:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WMfmYZ5Vg9NuI+f1iZITUCx8ASXJTCTPReqQaKhheRc="
-        }
-      ]
-    },
-    {
-      "Route": "js/UserList/UserList.s3lutxm9bh.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\UserList\\UserList.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WMfmYZ5Vg9NuI+f1iZITUCx8ASXJTCTPReqQaKhheRc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 07:34:33 GMT"
+          "Value": "Thu, 23 Jan 2025 07:35:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2233,7 +2196,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s3lutxm9bh"
+          "Value": "iw42zpbk6s"
         },
         {
           "Name": "label",
@@ -2241,13 +2204,50 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WMfmYZ5Vg9NuI+f1iZITUCx8ASXJTCTPReqQaKhheRc="
+          "Value": "sha256-UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/UserList/UserList.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\js\\UserList\\UserList.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 07:35:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2284,7 +2284,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2329,7 +2329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2366,7 +2366,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2411,7 +2411,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2448,7 +2448,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2493,7 +2493,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2530,7 +2530,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2575,7 +2575,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2612,7 +2612,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2657,7 +2657,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2694,7 +2694,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2739,7 +2739,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2776,7 +2776,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2821,7 +2821,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2858,7 +2858,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2903,7 +2903,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2948,7 +2948,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2985,7 +2985,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3022,7 +3022,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3067,7 +3067,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3104,7 +3104,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3149,7 +3149,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3186,7 +3186,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3231,7 +3231,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3268,7 +3268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3313,7 +3313,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3350,7 +3350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3387,7 +3387,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3424,7 +3424,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3469,7 +3469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3514,7 +3514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3559,7 +3559,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3604,7 +3604,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3641,7 +3641,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3686,7 +3686,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3723,7 +3723,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3760,7 +3760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3797,7 +3797,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3842,7 +3842,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3887,7 +3887,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3932,7 +3932,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3969,7 +3969,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4014,7 +4014,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4051,7 +4051,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4088,7 +4088,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4125,7 +4125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4170,7 +4170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4215,7 +4215,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4252,7 +4252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4297,7 +4297,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4334,7 +4334,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4379,7 +4379,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4416,7 +4416,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4453,7 +4453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4498,7 +4498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4543,7 +4543,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4580,7 +4580,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4625,7 +4625,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4662,7 +4662,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4699,7 +4699,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4744,7 +4744,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4781,7 +4781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4826,7 +4826,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4871,7 +4871,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4908,7 +4908,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4953,7 +4953,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4990,7 +4990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5035,7 +5035,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5080,7 +5080,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5117,7 +5117,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5162,7 +5162,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5199,7 +5199,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5236,7 +5236,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5281,7 +5281,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5318,7 +5318,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5363,7 +5363,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5400,7 +5400,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5437,7 +5437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5482,7 +5482,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5527,7 +5527,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5564,7 +5564,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5609,7 +5609,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5646,7 +5646,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5683,7 +5683,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5720,7 +5720,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5765,7 +5765,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5810,7 +5810,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5855,7 +5855,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5892,7 +5892,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5937,7 +5937,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5982,7 +5982,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6019,7 +6019,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6064,7 +6064,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6109,7 +6109,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6146,7 +6146,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6183,7 +6183,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6228,7 +6228,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6265,7 +6265,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6310,7 +6310,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6347,7 +6347,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6392,7 +6392,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6429,7 +6429,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6466,7 +6466,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6511,7 +6511,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6548,7 +6548,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6593,7 +6593,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6630,7 +6630,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6675,7 +6675,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6720,7 +6720,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6757,7 +6757,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6802,7 +6802,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6839,7 +6839,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6884,7 +6884,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\Git Hub Folder\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Git Hub Folder\\GitMicroserrvicesSample\\MicroservicesSample\\Eshop-microservices\\EshopingWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -10,3 +10,16 @@ D:\Git Hub Folder\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentic
 D:\Git Hub Folder\Eshop-microservices\Authentications\obj\Debug\net8.0\refint\Authentications.dll
 D:\Git Hub Folder\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.pdb
 D:\Git Hub Folder\Eshop-microservices\Authentications\obj\Debug\net8.0\ref\Authentications.dll
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\bin\Debug\net8.0\Authentications.deps.json
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\bin\Debug\net8.0\Authentications.dll
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\bin\Debug\net8.0\Authentications.pdb
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.csproj.AssemblyReference.cache
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.AssemblyInfoInputs.cache
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.AssemblyInfo.cs
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.csproj.CoreCompileInputs.cache
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.sourcelink.json
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.dll
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\refint\Authentications.dll
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\Authentications.pdb
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\Authentications\obj\Debug\net8.0\ref\Authentications.dll

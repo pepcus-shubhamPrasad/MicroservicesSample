@@ -9,3 +9,15 @@ D:\Git Hub Folder\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthSe
 D:\Git Hub Folder\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
 D:\Git Hub Folder\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
 D:\Git Hub Folder\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.sourcelink.json
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+D:\Git Hub Folder\GitMicroserrvicesSample\MicroservicesSample\Eshop-microservices\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll

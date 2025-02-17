@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s3lutxm9bh</Fingerprint>
-      <Integrity>WMfmYZ5Vg9NuI+f1iZITUCx8ASXJTCTPReqQaKhheRc=</Integrity>
+      <Fingerprint>iw42zpbk6s</Fingerprint>
+      <Integrity>UjzVarsShGguUVN4vjWeaqQqwNUNUD9SMEh667c/zDQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\UserList\UserList.js'))</OriginalItemSpec>
